@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/a9uw6yhm7xxd71yk?svg=true)](https://ci.appveyor.com/project/Votgosh/web)
